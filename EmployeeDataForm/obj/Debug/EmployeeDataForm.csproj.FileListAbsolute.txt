@@ -1,0 +1,11 @@
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\bin\Debug\EmployeeDataForm.exe.config
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\bin\Debug\EmployeeDataForm.exe
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\bin\Debug\EmployeeDataForm.pdb
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\obj\Debug\EmployeeDataForm.csproj.AssemblyReference.cache
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\obj\Debug\EmployeeDataForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\obj\Debug\EmployeeDataForm.Form1.resources
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\obj\Debug\EmployeeDataForm.Properties.Resources.resources
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\obj\Debug\EmployeeDataForm.csproj.GenerateResource.cache
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\obj\Debug\EmployeeDataForm.csproj.CoreCompileInputs.cache
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\obj\Debug\EmployeeDataForm.exe
+C:\Users\issac\OneDrive\Desktop\DotNet\EmployeeDataForm\EmployeeDataForm\obj\Debug\EmployeeDataForm.pdb

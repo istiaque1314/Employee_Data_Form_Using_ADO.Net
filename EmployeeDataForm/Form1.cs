@@ -191,5 +191,10 @@ namespace EmployeeDataForm
                 MessageBox.Show(em.Message.ToString());
             }
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,6 +1,9 @@
 # <p align = "center"> Employee_Data_Form_Using_ADO.Net <p/>
 
- <img src = "https://user-images.githubusercontent.com/88729010/187035479-aa395585-692d-43e6-9509-cd5abec24f18.png" width = "500" height = "300" />  <img src = "https://user-images.githubusercontent.com/88729010/187035490-afdfb048-00ed-4769-a400-4a79ce930d2e.png" width = "500" height = "300" />
+ <div>
+ <img src = "https://user-images.githubusercontent.com/88729010/187035479-aa395585-692d-43e6-9509-cd5abec24f18.png" width = "400" height = "300" />  <img src = "https://user-images.githubusercontent.com/88729010/187035490-afdfb048-00ed-4769-a400-4a79ce930d2e.png" width = "400" height = "300" />
+</div>
+
  
 <h4 style = "color: blue"> It is a Employee Data Form. It takes data from employees through form and stores that data in the backend microsoft Sql Server</h4>
 
